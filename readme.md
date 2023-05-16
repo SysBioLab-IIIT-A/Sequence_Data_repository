@@ -1,4 +1,5 @@
 # Sequence Data Repository using block_chain concept
+@Author: Sanjana Sharma
 
 This is Python implementation for storage and management of the fasta sequences using BlockChain. 
 It has the following features:
