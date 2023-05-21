@@ -95,5 +95,5 @@ Important: Ensure you have fulfilled the requirements mentioned above before run
 Feel free to modify the code or adapt it to suit your needs.
 
 ## Disclaimer
-The provided code is for educational purposes only and should not be used for critical or production systems without proper review, testing, and security considerations.
+The provided code is for educational and research purposes only and should not be used for critical or production systems without proper review, testing, and security considerations.
 
