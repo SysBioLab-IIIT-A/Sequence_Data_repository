@@ -65,10 +65,10 @@ blockchain.print_blockchain()
 ```
 5. The above one explained the usuage of the blockchain from scratch, instead the below package could be utilized for performing the same task.
 ```python
-installing package
+#installing package
 pip install genochain
 
-importing package
+#importing package
 from genochain.genochain import BlockChain
 
 #genesis block creation
@@ -78,7 +78,7 @@ blockchain = BlockChain("AUG")
 blockchain.check_version('seq1','GAATTTCC')
 blockchain.check_version('seq1','GTTTCC')
 
-# Print the blockchain
+#Print the blockchain
 blockchain.print_blockchain()
 ```
 
