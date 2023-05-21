@@ -10,8 +10,10 @@ Checking and printing the blockchain
 
 
 ## Requirements
+Interface :
 Python 3.x
-Required Libraries: json, hashlib, time
+Required Libraries :
+json, hashlib, time
 
 ## Usage 
 1. Import the necessary libraries.
@@ -80,7 +82,7 @@ blockchain.check_version('seq1','GTTTCC')
 blockchain.print_blockchain()
 ```
 
-Notes 
+## Notes 
 The code provided is a basic implementation of a blockchain and may not include all the necessary features or security measures required for a production-level blockchain system.
 
 The BlockChain class assumes that the genesis_fasta parameter passed to the constructor is a valid FASTA sequence.
@@ -90,8 +92,8 @@ Please refer to the provided code for a detailed implementation and explore the 
 
 Important: Ensure you have fulfilled the requirements mentioned above before running the code.
 
-Feel free to modify the code or adapt it to suit your needs. For more information on blockchain technology, refer to the relevant resources and documentation.
+Feel free to modify the code or adapt it to suit your needs.
 
-Disclaimer
+## Disclaimer
 The provided code is for educational purposes only and should not be used for critical or production systems without proper review, testing, and security considerations.
 
